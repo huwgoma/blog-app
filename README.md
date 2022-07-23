@@ -1,24 +1,4 @@
-# README
+# Blog App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is a barebones, skeleton Blog app that is part of an introductory tutorial to creating apps with Ruby on Rails.
+The tutorial can be found [here](https://guides.rubyonrails.org/getting_started.html).
